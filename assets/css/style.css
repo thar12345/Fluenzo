@@ -196,7 +196,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #000000;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -232,7 +232,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: black;
+  color: #9336B4;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -248,12 +248,12 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #9a3793;
+  color: #DD58D6;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #4154f1;
+  background: #40128B;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -263,7 +263,7 @@ section {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #5969f3;
+  background: #fe8ff8;
 }
 
 .navbar .dropdown ul {
@@ -419,13 +419,13 @@ section {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #012970;
+  color: #9336B4;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #4154f1;
+  color: #DD58D6;
 }
 
 .navbar-mobile .getstarted,
@@ -481,11 +481,11 @@ section {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #012970;
+  color: #40128B;
 }
 
 .hero h2 {
-  color: #444444;
+  color: #9336B4;
   margin: 15px 0 0 0;
   font-size: 26px;
 }
@@ -497,7 +497,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #4154f1;
+  background: #40128B;
   box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
 }
 
